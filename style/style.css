@@ -9,6 +9,10 @@ footer {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
+h1 {
+  font-weight: normal;
+}
+
 footer {
   margin: 20px;
 }
